@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Sensitive Child
+ Theme URI:    http://blog.programofreaks.com/
+ Description:  Sensitive Child Theme For Programofreaks
+ Author:       Programofreaks
+ Author URI:   http://programofreaks.com
+ Template:     sensitive
+ Version:      1.0.0
+ Tags:         bootstrap, metro, programofreaks
+ Text Domain:  sensitive-child
+*/
+
+@import url("../sensitive/style.css");
+ol.linenums{
+	margin-left:30px;
+}
+pre,code{
+	white-space:pre-wrap !important;
+}
